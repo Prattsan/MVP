@@ -1,4 +1,4 @@
-# Knolabs Dental Agency AI Assistant
+# poc
 
 Welcome to the Knolabs Dental Agency AI Assistant project! This innovative application leverages the power of AI to provide instant dental care advice and assistance to users.
 
@@ -50,15 +50,4 @@ Take your skills to the next level with our comprehensive SaaS development cours
 
 [Enroll in the Course](https://knolabs.biz/upsell-saas-course-2139-9605)
 
-### Stay Connected
 
-- YouTube: [Kno2gether Channel](https://www.youtube.com/@Kno2gether)
-- Website: [Knolabs.biz](https://knolabs.biz)
-
-## Support
-
-For any questions or support, please open an issue or contact us through our [YouTube channel](https://www.youtube.com/@Kno2gether).
-
----
-
-Built with ❤️ by the Kno2gether team
