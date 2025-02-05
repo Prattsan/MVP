@@ -6,14 +6,6 @@ Welcome to the Knolabs Dental Agency AI Assistant project! This innovative appli
 
 This project demonstrates the integration of LiveKit for real-time communication, OpenAI for natural language processing, and a modern React/Next.js frontend to create an engaging AI-powered dental assistant.
 
-## Video Tutorial
-
-This project is covered in detail in our YouTube video tutorial:
-
-[![Building an AI Dental Assistant with LiveKit and OpenAI](https://img.youtube.com/vi/-KMe--hGhMU/0.jpg)](https://www.youtube.com/watch?v=-KMe--hGhMU)
-
-In this video, Avijit from Kno2gether walks through the code, explaining the integration of LiveKit, OpenAI, and the overall architecture of the AI assistant.
-
 ## Features
 
 - Real-time video and audio communication
