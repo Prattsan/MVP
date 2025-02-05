@@ -30,16 +30,4 @@ We welcome contributions to improve the Kno2gether AI Assistant. Please feel fre
 
 This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
-## About Kno2gether
-
-Kno2gether is a YouTube channel run by Avijit, focused on empowering businesses with AI and automation. 
-
-### AI Powered Ultimate SaaS Development Course
-
-Take your skills to the next level with our comprehensive SaaS development course. Learn how to build, deploy, and scale AI-powered SaaS applications.
-
-[![AI Powered Ultimate SaaS Development Course](https://img.youtube.com/vi/jxDLQfcbGTI/0.jpg)](https://knolabs.biz/upsell-saas-course-2139-9605)
-
-[Enroll in the Course](https://knolabs.biz/upsell-saas-course-2139-9605)
-
 
